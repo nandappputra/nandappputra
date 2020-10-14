@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Nanda, currently a student at BIT!
+
+I typically code during my spare time 
+
+
+linkedIn ☑
+
