@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **nandappputra/nandappputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,10 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Nanda, currently a student at BIT!
+### Hi, I'm Nanda! ✨
 
-I typically code during my spare time 
+<p>
+I'm a student who like to explore new stuff, and coding is one of them!<br>
+Currently learning the basics, and looking forward improve my knowledge on the subject!
+</p>
 
+🐍 Python | 📜 Javascript
 
+#### Contact me
+<p>
 linkedIn ☑
+</p>
 
