@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 ### Hi, I'm Nanda! ✨
 
 <p>
-I'm a student who like to explore new stuff, and coding is one of them!<br>
-Currently learning the basics and looking forward to improve my knowledge on the subject!
+I'm a student who like to explore new stuff!<br>
+Currently learning the basics and looking forward to improve my knowledge on the subject
 </p>
 
 🐍 Python | 📜 Javascript
