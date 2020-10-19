@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 ### Hi, I'm Nanda! ✨
 
 <p>
-I'm a student who like to explore new stuff!<br>
-Currently learning the basics and looking forward to improve my knowledge on the subject
+I'm a student who love to explore new stuff!<br>
+Still looking forward to improve my knowledge on the subject<br>
+Currently trying out Node & Electron 👨‍💻
 </p>
 
 🐍 Python | 📜 Javascript
+
 
 #### Contact me
 <p>
