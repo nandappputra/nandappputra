@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-An engineer based in Jakarta. Mostly Java & backend. Looking to explore more on the software engineering world!
+An engineer based in Jakarta. Mostly Java & backend. Here to explore more on the software engineering world!
 
 #### Let's talk!
 [📖 Pages](https://nandappputra.github.io/)
